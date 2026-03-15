@@ -21,7 +21,7 @@ function Dashboard(){
 
   return(
 
-    <div>
+    <div className="container">
 
       <h1>Dashboard</h1>
 
